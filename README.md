@@ -12,5 +12,6 @@ This is a place where I keep my daily reading material
   - [Open-Source License Explained in 5 minutes](https://www.youtube.com/watch?v=MjN-mufsNbQ)
   - [Free and Open Source software licenses explained](https://www.youtube.com/watch?v=UMIG4KnM8xw&t=91s)
   - [What are GitHub Licenses? | How To Add a License? | Why You Should Use a License?](https://www.youtube.com/watch?v=ndORMSnb2nw)
+  - [Thymeleaf elvis operator](https://o7planning.org/12367/thymeleaf-elvis-operator)
 
 
