@@ -20,5 +20,5 @@ This is a place where I keep my daily reading material
 - [linux xz attack](https://youtu.be/LaRKIwpGPTU?si=QKnczdpiEujuC7tI)
 - [python project](https://youtu.be/ocweEorBrmU?si=txfcx7Br_C3f3bTc)
 - [reddit system](https://youtu.be/4mHMsnt3TIQ?si=t6c4vlLThiFONEFV)
-
+- [Founder Diaries](https://youtu.be/o2GuOvO-Mns?si=dRsbh8V4IO0324JF)
 
