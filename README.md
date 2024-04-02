@@ -21,4 +21,6 @@ This is a place where I keep my daily reading material
 - [python project](https://youtu.be/ocweEorBrmU?si=txfcx7Br_C3f3bTc)
 - [reddit system](https://youtu.be/4mHMsnt3TIQ?si=t6c4vlLThiFONEFV)
 - [Founder Diaries](https://youtu.be/o2GuOvO-Mns?si=dRsbh8V4IO0324JF)
+- [django tut](https://youtu.be/PtQiiknWUcI?si=AmDA-8nWe2WB1_Pd)
+- [django for everyone](https://youtu.be/o0XbHvKxw7Y?si=RyN27ETlROXKIH0e)
 
