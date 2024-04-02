@@ -14,4 +14,11 @@ This is a place where I keep my daily reading material
   - [What are GitHub Licenses? | How To Add a License? | Why You Should Use a License?](https://www.youtube.com/watch?v=ndORMSnb2nw)
   - [Thymeleaf elvis operator](https://o7planning.org/12367/thymeleaf-elvis-operator)
 
+### 2nd April
+- [tech market](https://youtu.be/Xg9ihH15Uto?si=8YIW55CM9Ei4KvWR)
+- [startup market](https://youtu.be/gj3bqiTRF2A?si=MRCXAS82PQmBkJEi)
+- [linux xz attack](https://youtu.be/LaRKIwpGPTU?si=QKnczdpiEujuC7tI)
+- [python project](https://youtu.be/ocweEorBrmU?si=txfcx7Br_C3f3bTc)
+- [reddit system](https://youtu.be/4mHMsnt3TIQ?si=t6c4vlLThiFONEFV)
+
 
