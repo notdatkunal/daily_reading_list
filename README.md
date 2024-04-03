@@ -26,4 +26,5 @@ This is a place where I keep my daily reading material
 
 ### 3rd April
 - [Django admin panel](https://www.reddit.com/r/django/comments/l0ghrh/comment/gjwfcsu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+- [React Admin Panel](https://youtu.be/UA8Sxk_mHb8?si=YT5ujH6_tBNU2LUM)
 
