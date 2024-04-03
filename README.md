@@ -35,4 +35,5 @@ This is a place where I keep my daily reading material
 - [react admin crash course](https://youtu.be/HRmdj-HpJyE?si=E_fjAsyF5vmvJyTI)
 - [how to scrape unscrapable data](https://youtu.be/YRRW4o-BjEM?si=1iNshw5Bg06Gh4ct)
 - [webscraping by python](https://youtu.be/WP92--PQmNw?si=YykFUf2V1SGkBXhY)
+- [Don't do this](https://youtu.be/FPSyjJdudHU?si=QgIhw1qUWKmjloVT)
 
