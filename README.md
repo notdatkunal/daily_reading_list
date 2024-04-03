@@ -41,5 +41,6 @@ This is a place where I keep my daily reading material
 - [Game Devs](https://youtu.be/hy_s43yRr-E?si=2ehitU_o3DweWSiA)
 - [Sprints are Biggest mistake](https://youtu.be/_p1Q4c3TF3c?si=Dc6_JMpmmx_Z_-97)
 - [Best React Landing Pages](https://dev.to/reactawesome/30-best-react-landing-pages-templates-2024-e85)
-- [D3 js](https://www.youtube.com/watch?v=bp2GF8XcJdY)
+- [D3 js introduction](https://www.youtube.com/watch?v=bp2GF8XcJdY)
+- [D3 js tutorial](https://youtu.be/TOJ9yjvlapY?si=goeEMX_CTEwH6nQF)
 
