@@ -29,4 +29,5 @@ This is a place where I keep my daily reading material
 - [React Admin Panel](https://youtu.be/UA8Sxk_mHb8?si=YT5ujH6_tBNU2LUM)
 - [StackOverflow Answer to Admin Panels](https://stackoverflow.com/questions/18734825/are-there-any-module-that-works-like-django-admin-in-nodejs)
 - [Top Frameworks to build Admin Panels](https://refine.dev/blog/admin-panels/#2angular---ngx-admin)
+- [How to build Django Admin Panel](https://www.forestadmin.com/blog/how-to-build-a-django-admin-panel/)
 
