@@ -33,4 +33,6 @@ This is a place where I keep my daily reading material
 - [Django Admin Panel Article](https://medium.com/@ananiann/mastering-django-admin-detailed-explanations-to-advanced-customization-for-multi-user-scalability-0a7550fd6e19)
 - [keystone.js](https://keystonejs.com/)
 - [react admin crash course](https://youtu.be/HRmdj-HpJyE?si=E_fjAsyF5vmvJyTI)
+- [how to scrape unscrapable data](https://youtu.be/YRRW4o-BjEM?si=1iNshw5Bg06Gh4ct)
+- (https://youtu.be/WP92--PQmNw?si=YykFUf2V1SGkBXhY)
 
