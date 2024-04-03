@@ -38,4 +38,8 @@ This is a place where I keep my daily reading material
 - [Don't do this](https://youtu.be/FPSyjJdudHU?si=QgIhw1qUWKmjloVT)
 - [Advanced Web Scraping](https://youtu.be/qo_fUjb02ns?si=UgfYh-jDxO92BB5D)
 - [Perspective](https://youtu.be/BRQbdVQ4DN8?si=SA7PQY6mobR4HTGn)
+- [Game Devs](https://youtu.be/hy_s43yRr-E?si=2ehitU_o3DweWSiA)
+- [Sprints are Biggest mistake](https://youtu.be/_p1Q4c3TF3c?si=Dc6_JMpmmx_Z_-97)
+- [Best React Landing Pages](https://dev.to/reactawesome/30-best-react-landing-pages-templates-2024-e85)
+- [D3 js](https://www.youtube.com/watch?v=bp2GF8XcJdY)
 
