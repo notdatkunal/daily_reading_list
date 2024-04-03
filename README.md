@@ -34,5 +34,5 @@ This is a place where I keep my daily reading material
 - [keystone.js](https://keystonejs.com/)
 - [react admin crash course](https://youtu.be/HRmdj-HpJyE?si=E_fjAsyF5vmvJyTI)
 - [how to scrape unscrapable data](https://youtu.be/YRRW4o-BjEM?si=1iNshw5Bg06Gh4ct)
-- (https://youtu.be/WP92--PQmNw?si=YykFUf2V1SGkBXhY)
+- [webscraping by python](https://youtu.be/WP92--PQmNw?si=YykFUf2V1SGkBXhY)
 
