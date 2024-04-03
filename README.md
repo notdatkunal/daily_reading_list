@@ -37,4 +37,5 @@ This is a place where I keep my daily reading material
 - [webscraping by python](https://youtu.be/WP92--PQmNw?si=YykFUf2V1SGkBXhY)
 - [Don't do this](https://youtu.be/FPSyjJdudHU?si=QgIhw1qUWKmjloVT)
 - [Advanced Web Scraping](https://youtu.be/qo_fUjb02ns?si=UgfYh-jDxO92BB5D)
+- [Perspective](https://youtu.be/BRQbdVQ4DN8?si=SA7PQY6mobR4HTGn)
 
