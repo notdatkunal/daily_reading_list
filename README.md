@@ -32,4 +32,5 @@ This is a place where I keep my daily reading material
 - [How to build Django Admin Panel](https://www.forestadmin.com/blog/how-to-build-a-django-admin-panel/)
 - [Django Admin Panel Article](https://medium.com/@ananiann/mastering-django-admin-detailed-explanations-to-advanced-customization-for-multi-user-scalability-0a7550fd6e19)
 - [keystone.js](https://keystonejs.com/)
+- [react admin crash course](https://youtu.be/HRmdj-HpJyE?si=E_fjAsyF5vmvJyTI)
 
