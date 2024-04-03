@@ -30,5 +30,5 @@ This is a place where I keep my daily reading material
 - [StackOverflow Answer to Admin Panels](https://stackoverflow.com/questions/18734825/are-there-any-module-that-works-like-django-admin-in-nodejs)
 - [Top Frameworks to build Admin Panels](https://refine.dev/blog/admin-panels/#2angular---ngx-admin)
 - [How to build Django Admin Panel](https://www.forestadmin.com/blog/how-to-build-a-django-admin-panel/)
-- [django admin panel article](https://medium.com/@ananiann/mastering-django-admin-detailed-explanations-to-advanced-customization-for-multi-user-scalability-0a7550fd6e19)
+- [Django Admin Panel Article](https://medium.com/@ananiann/mastering-django-admin-detailed-explanations-to-advanced-customization-for-multi-user-scalability-0a7550fd6e19)
 
