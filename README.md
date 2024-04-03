@@ -24,3 +24,6 @@ This is a place where I keep my daily reading material
 - [django tut](https://youtu.be/PtQiiknWUcI?si=AmDA-8nWe2WB1_Pd)
 - [django for everyone](https://youtu.be/o0XbHvKxw7Y?si=RyN27ETlROXKIH0e)
 
+### 3rd April
+- [django admin panel](https://www.reddit.com/r/django/comments/l0ghrh/comment/gjwfcsu/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
