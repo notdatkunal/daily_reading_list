@@ -44,3 +44,6 @@ This is a place where I keep my daily reading material
 - [D3 js introduction](https://www.youtube.com/watch?v=bp2GF8XcJdY)
 - [D3 js tutorial](https://youtu.be/TOJ9yjvlapY?si=goeEMX_CTEwH6nQF)
 
+### 5th April
+- [Tauri](https://www.youtube.com/watch?v=-X8evddpu7M&t=2s)
+
