@@ -46,4 +46,5 @@ This is a place where I keep my daily reading material
 
 ### 5th April
 - [Tauri](https://www.youtube.com/watch?v=-X8evddpu7M&t=2s)
+- [pyQT Vs Tkinter](https://youtu.be/pwuW1SSpxq0?si=0UDq3DHZxPbyC44H)
 
