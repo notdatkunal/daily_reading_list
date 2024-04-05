@@ -47,4 +47,13 @@ This is a place where I keep my daily reading material
 ### 5th April
 - [Tauri](https://www.youtube.com/watch?v=-X8evddpu7M&t=2s)
 - [pyQT Vs Tkinter](https://youtu.be/pwuW1SSpxq0?si=0UDq3DHZxPbyC44H)
+- [return html mvc](https://www.baeldung.com/spring-mvc-return-html)
+- [render a variable as html in spring ](https://stackoverflow.com/questions/62820269/render-a-variable-as-html-in-java-spring-thymeleaf?rq=3)
+- [dynamic thymleaf ](https://stackoverflow.com/questions/63623238/dynamic-html-in-thymeleaf?newreg=05a8ce443472486b92ca46a88b6c3f16)
+- [thymeleaf + htmx](https://www.wimdeblauwe.com/blog/2021/10/04/todomvc-with-thymeleaf-and-htmx/)
+- [spring web app ](https://codecraftsphere.substack.com/p/empower-your-pwa-unleashing-simplicity-with-htmx-tailwind-java-thymeleaf-and-spring-boot-7a8501265694)
+- [htmx library for htmx](https://github.com/wimdeblauwe/htmx-spring-boot.git)
+- [http caching ](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+- [htmx guide](https://htmx.org/docs/#animations)
+- [htmx digging deeper](https://dev.to/apostrophecms/digging-into-htmx-examples-and-how-to-use-it-5cna)
 
