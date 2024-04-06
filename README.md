@@ -65,6 +65,6 @@ This is a place where I keep my daily reading material
 - [different image compression techniques](https://www.tutorialspoint.com/java_dip/image_compression_technique.htm)
 
  ### 6th April
-- [use stackchecker for yourstory.com and shaadi.com and other popular startups like lenskart and boat which are marketing heavy websites and offer more gimmic features](https://yourstory.com/)
+- [Use Stackchecker for yourstory.com and shaadi.com and other popular startups like lenskart and boat which are marketing heavy websites and offer more gimmic features](https://yourstory.com/)
 - [Built with is a site for checking stacks for websites](https://builtwith.com/)
 
