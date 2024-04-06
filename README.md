@@ -70,4 +70,5 @@ This is a place where I keep my daily reading material
 - [Django Documentation](https://docs.djangoproject.com/en/5.0/)
 - [Getting Started with Django ](https://www.djangoproject.com/start/)
 - [How to deploy a django application ](https://docs.djangoproject.com/en/1.8/howto/deployment/)
+- [Django + mysql](https://studygyaan.com/django/how-to-use-mysql-database-with-django-project)
 
