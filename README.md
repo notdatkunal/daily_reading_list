@@ -72,4 +72,6 @@ This is a place where I keep my daily reading material
 - [How to deploy a django application ](https://docs.djangoproject.com/en/1.8/howto/deployment/)
 - [Django + mysql](https://studygyaan.com/django/how-to-use-mysql-database-with-django-project)
 - [inner circle video](https://youtu.be/2DzfTWxramk?si=p_YuqqNb0EmrgDbs)
+### 7th April
+- [linkedin assesments tests](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
