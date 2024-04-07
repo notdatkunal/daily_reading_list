@@ -73,5 +73,5 @@ This is a place where I keep my daily reading material
 - [Django + mysql](https://studygyaan.com/django/how-to-use-mysql-database-with-django-project)
 - [inner circle video](https://youtu.be/2DzfTWxramk?si=p_YuqqNb0EmrgDbs)
 ### 7th April
-- [linkedin assesments tests](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+- [linkedin assesments tests (old ones)](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
