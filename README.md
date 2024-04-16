@@ -75,3 +75,6 @@ This is a place where I keep my daily reading material
 ### 7th April
 - [linkedin assesments tests (old ones)](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 
+### 18th April
+- [AWS Playlist](https://youtube.com/playlist?list=PLBBog2r6uMCQgjZrb1auB1VdMrS-YqYzz&si=13fYw4lZ-kk-1Psv)
+
