@@ -78,4 +78,5 @@ This is a place where I keep my daily reading material
 ### 18th April
 - [AWS Playlist](https://youtube.com/playlist?list=PLBBog2r6uMCQgjZrb1auB1VdMrS-YqYzz&si=13fYw4lZ-kk-1Psv)
 - [Introduction to AWS services](https://youtu.be/Z3SYDTMP3ME?si=ILKsDgQroLeV6Tl2)
-
+## 31 May 
+- [splitting up repos](https://www.marcobehler.com/guides/git-splitting-repositories-removing-sensitive-data)
