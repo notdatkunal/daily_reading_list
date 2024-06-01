@@ -84,3 +84,4 @@ This is a place where I keep my daily reading material
 - [are we game yet rust](https://arewegameyet.rs/)
 - [are we gui yet rust](https://areweguiyet.com/)
 - [are we web yet rust](https://www.arewewebyet.org/)
+- [are we rust yet ](https://github.com/UgurcanAkkok/AreWeRustYet.git)
