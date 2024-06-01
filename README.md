@@ -80,3 +80,4 @@ This is a place where I keep my daily reading material
 - [Introduction to AWS services](https://youtu.be/Z3SYDTMP3ME?si=ILKsDgQroLeV6Tl2)
 ## 31 May 
 - [splitting up repos](https://www.marcobehler.com/guides/git-splitting-repositories-removing-sensitive-data)
+- [for the love of rust ](https://youtu.be/ZltAssmicsM?si=2vIC8PBKgHWSV9I0)
