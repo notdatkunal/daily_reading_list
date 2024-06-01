@@ -82,3 +82,5 @@ This is a place where I keep my daily reading material
 - [splitting up repos](https://www.marcobehler.com/guides/git-splitting-repositories-removing-sensitive-data)
 - [for the love of rust ](https://youtu.be/ZltAssmicsM?si=2vIC8PBKgHWSV9I0)
 - [are we game yet rust](https://arewegameyet.rs/)
+- [are we gui yet rust](https://areweguiyet.com/)
+- [are we web yet rust](https://www.arewewebyet.org/)
