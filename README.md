@@ -1,4 +1,4 @@
-# Daily-Reading-List
+# Daily Reading List
 This is a place where I keep my daily reading material
 
 ### 1st April 2024
