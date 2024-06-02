@@ -80,8 +80,11 @@ This is a place where I keep my daily reading material
 - [Introduction to AWS services](https://youtu.be/Z3SYDTMP3ME?si=ILKsDgQroLeV6Tl2)
 ## 31 May 
 - [splitting up repos](https://www.marcobehler.com/guides/git-splitting-repositories-removing-sensitive-data)
+## 1st of June
 - [for the love of rust ](https://youtu.be/ZltAssmicsM?si=2vIC8PBKgHWSV9I0)
 - [are we game yet rust](https://arewegameyet.rs/)
 - [are we gui yet rust](https://areweguiyet.com/)
 - [are we web yet rust](https://www.arewewebyet.org/)
-- [are we rust yet ](https://github.com/UgurcanAkkok/AreWeRustYet.git)
+- [are we rust yet ](https://github.com/UgurcanAkkok/AreWeRustYet.git)  
+## 2nd of June
+- [web 3 fundamentals](https://youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&si=Au1tUAz6t5jKv88Q)
