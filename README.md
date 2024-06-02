@@ -91,3 +91,6 @@ This is a place where I keep my daily reading material
 - [setup a webserver](https://youtube.com/shorts/CmaFU1Y7FJc?si=6qNbfFkreP0gXh9C)
 - [generative AI](https://youtube.com/playlist?list=PLzkBTicHqQFmdF62zHHramnBRZl6zUvmR&si=PZvpGWJkZTZ4W91G)
 - [linux backdoor deep drive](https://youtube.com/playlist?list=PLn_It163He32y0-CvO4s-Tg6yNhbO1PMF&si=8PCu0xEUKvOCFsjh)
+## 3rd of June
+- [3js .or](https://threejs.org/)
+- [Discover 3js](https://discoverthreejs.com/#main)
