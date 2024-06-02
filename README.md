@@ -89,3 +89,4 @@ This is a place where I keep my daily reading material
 ## 2nd of June
 - [web 3 fundamentals](https://youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&si=Au1tUAz6t5jKv88Q)
 - [setup a webserver](https://youtube.com/shorts/CmaFU1Y7FJc?si=6qNbfFkreP0gXh9C)
+- [generative AI](https://youtube.com/playlist?list=PLzkBTicHqQFmdF62zHHramnBRZl6zUvmR&si=PZvpGWJkZTZ4W91G)
