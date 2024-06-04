@@ -97,3 +97,4 @@ This is a place where I keep my daily reading material
 ## 4th of June
 - [machine learning tutorials](https://youtube.com/playlist?list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i&si=FhLydt3vF1vvzeWY)
 - [working with data](https://youtube.com/playlist?list=PL7RwtdVQXQ8oYpuIIDWR0SaaSCe8ZeZ7t&si=BCGuh4ORjfDOXrz6)
+- [journalctl command shortcuts](https://linuxhandbook.com/journalctl-command/)
