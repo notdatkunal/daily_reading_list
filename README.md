@@ -94,3 +94,4 @@ This is a place where I keep my daily reading material
 ## 3rd of June
 - [3js .or](https://threejs.org/)
 - [Discover 3js](https://discoverthreejs.com/#main)
+- [machine learning tutorials](https://youtube.com/playlist?list=PL7RwtdVQXQ8o6CYe1Teo7FzkrQQoT0c9i&si=FhLydt3vF1vvzeWY)
