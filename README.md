@@ -101,3 +101,4 @@ This is a place where I keep my daily reading material
 ## 5th of June
 - [python data science](https://youtube.com/playlist?list=PL7RwtdVQXQ8qxBH6ugYn50D0M5u--2Xx4&si=iKAv6CG3CaID5y5R)
 - [neural network maths](https://youtu.be/Ixl3nykKG9M?si=nu-llZJt7nEZyKUq)
+- [neural network from scratch](https://youtube.com/playlist?list=PLPz3O_BKtnTCoJlcRIrhtQ7CDewWhzI7x&si=j6iHVlrwB8Qufj3i)
