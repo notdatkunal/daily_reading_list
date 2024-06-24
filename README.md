@@ -103,3 +103,5 @@ This is a place where I keep my daily reading material
 - [neural network maths](https://youtu.be/Ixl3nykKG9M?si=nu-llZJt7nEZyKUq)
 - [neural network from scratch](https://youtube.com/playlist?list=PLPz3O_BKtnTCoJlcRIrhtQ7CDewWhzI7x&si=j6iHVlrwB8Qufj3i)
 - [playlist](https://youtube.com/playlist?list=PLcfLqmtrBhlBKiNRa3-SK20lTJM5w2683&si=XHgItDVwPZ1MzMlw)
+## 24th of June
+- [python application installation on non internet pc ](https://gist.github.com/notdatkunal/a85ade3c335c611fbe06ef9388afb105)
