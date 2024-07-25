@@ -105,3 +105,5 @@ This is a place where I keep my daily reading material
 - [playlist](https://youtube.com/playlist?list=PLcfLqmtrBhlBKiNRa3-SK20lTJM5w2683&si=XHgItDVwPZ1MzMlw)
 ## 24th of June
 - [python application installation on non internet pc ](https://gist.github.com/notdatkunal/a85ade3c335c611fbe06ef9388afb105)
+## 25th of July
+- [how to hire for startup](https://youtu.be/N1vQXkK4FY0?si=OG7LWzZrlku4_0GR)
