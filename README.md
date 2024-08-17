@@ -107,3 +107,4 @@ This is a place where I keep my daily reading material
 - [python application installation on non internet pc ](https://gist.github.com/notdatkunal/a85ade3c335c611fbe06ef9388afb105)
 ## 25th of July
 - [how to hire for startup](https://youtu.be/N1vQXkK4FY0?si=OG7LWzZrlku4_0GR)
+- https://youtube.com/shorts/JAYGek7W7Pg?si=zTBZSxKGBlzeaaWM
