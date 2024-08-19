@@ -108,3 +108,5 @@ This is a place where I keep my daily reading material
 ## 25th of July
 - [how to hire for startup](https://youtu.be/N1vQXkK4FY0?si=OG7LWzZrlku4_0GR)
 - https://youtube.com/shorts/JAYGek7W7Pg?si=zTBZSxKGBlzeaaWM
+
+- https://www.instagram.com/reel/C9sjGGws9pB/?igsh=MXdpbWh3ZDRrNXJ0Ng==
