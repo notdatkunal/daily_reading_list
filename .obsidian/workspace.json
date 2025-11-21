@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "84e1a373653d5ec8",
+        "id": "42eb3061130be67b",
         "type": "tabs",
         "children": [
           {
-            "id": "d7f78319e5e5e169",
+            "id": "950c9d0072d0e4b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/deepgit.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "deepgit"
+              "title": "New tab"
             }
           }
         ]
@@ -194,15 +190,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7f78319e5e5e169",
+  "active": "950c9d0072d0e4b7",
   "lastOpenFiles": [
+    "This is test file.md",
+    "README.md",
     "python/python linter.md",
-    "git/deepgit.md",
-    "IDE/delete all vs code extensions.md",
-    "git/bare repo in git.md",
-    "IDE",
-    "react",
     "python",
-    "git"
+    "git/deepgit.md",
+    "git/bare repo in git.md",
+    "git",
+    "IDE/delete all vs code extensions.md",
+    "IDE",
+    "react"
   ]
 }
