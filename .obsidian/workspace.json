@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ff6fbc7393712e8",
+        "id": "f68f55472e505f90",
         "type": "tabs",
         "children": [
           {
-            "id": "6a30cb6736741a6b",
+            "id": "8cc12da278bf057a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "7794c9762b583167",
@@ -194,10 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "131399f52666657d",
+  "active": "8cc12da278bf057a",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.canvas",
+    "upload files duqm.md",
+    "Untitled.md",
+    "Untitled",
     "This is test file.md",
+    "README.md",
     "python/python linter.md",
     "python",
     "git/deepgit.md",
