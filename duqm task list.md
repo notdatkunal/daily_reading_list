@@ -3,4 +3,12 @@
 - [x] import status in demand
 - [x] import gate in 
 - [x] import stock (not required) 
-- [ ] **[specs]()** and **[characteristics]()** table data to be added in database
+- [ ] **[specs]()** and **[characteristics]()** table data to be added in database 
+	- [ ] spec table from cslims 
+		- [x] CREATE Table
+		- [ ] CREATE INSERT queries 
+		- [ ] INSERT on startup IF NOT EXIST 
+	- [ ] characteristics from csilms
+		- [x] CREATE Table
+		- [ ] CREATE INSERT queries 
+		- [ ] INSERT on startup IF NOT EXIST 
