@@ -6,9 +6,11 @@
 - [ ] **[specs]()** and **[characteristics]()** table data to be added in database 
 	- [ ] spec table from cslims 
 		- [x] CREATE Table
-		- [ ] CREATE INSERT queries 
+		- [x] CREATE INSERT queries 
+		- [x] create sqlalchemy mapping 
 		- [ ] INSERT on startup IF NOT EXIST 
 	- [ ] characteristics from csilms
 		- [x] CREATE Table
-		- [ ] CREATE INSERT queries 
+		- [x] CREATE INSERT queries 
+		- [x] create sqlalchemy mapping 
 		- [ ] INSERT on startup IF NOT EXIST 
