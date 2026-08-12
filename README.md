@@ -110,3 +110,5 @@ This is a place where I keep my daily reading material
 - https://youtube.com/shorts/JAYGek7W7Pg?si=zTBZSxKGBlzeaaWM
 
 - https://www.instagram.com/reel/C9sjGGws9pB/?igsh=MXdpbWh3ZDRrNXJ0Ng==
+
+- Snowflake/Arctic-Text2SQL-R1-7B
